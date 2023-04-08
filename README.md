@@ -7,6 +7,8 @@ Ils offrent une variété de choix, tels que des chimichangas, des burritos, des
 
 # La maquette 🎨
 
+**Lien Figma** : http://bit.ly/3nZwOOx
+
 Pour la maquette, j'ai créé un design accrocheur et facile à naviguer pour leur site web.
 La page d'accueil présente une image dynamique et colorée de leur nourriture, ainsi qu'un menu déroulant qui permet aux utilisateurs de naviguer facilement vers les différents types de plats proposés.
 Le site web est également équipé d'une fonction de commande en ligne pour permettre aux clients de commander rapidement et facilement leur repas.
